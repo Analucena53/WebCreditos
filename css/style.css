@@ -1,0 +1,76 @@
+/* reset */
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0
+}
+
+img,
+figure {
+    max-width: 100%;
+    display: block;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* mi tema */
+
+/*TUNEO BURGER*/
+.navbar-dark .navbar-toggler {
+    border: 0;
+}
+
+.titulo,
+.subtitulo {
+    border-bottom: 2px solid black;
+
+}
+
+.bg-azul-oscuro {
+    background-color: #343A40;
+}
+
+.bg-azul-claro {
+    background-color: #DEE6EE;
+}
+
+.color-azul-claro {
+    color: #DEE6EE;
+}
+
+h3 {
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+a {
+    font-weight: lighter;
+    color: rgb(182, 24, 24);
+}
+
+.menu__li {
+    font-weight: bolder;
+    font-size: 14px;
+}
+
+.p__footer {
+    font-size: 13px;
+}
+
+.accordion-button:not(.collapsed) {
+    color: #343A40;
+    background-color: #DEE6EE;
+}
