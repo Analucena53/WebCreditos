@@ -25,7 +25,7 @@ YouTube Embed API: Video incrustado directamente desde YouTube.
 
 Instrucciones de Instalación
 1. Clona el repositorio:
-git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+git clone https://github.com/Analucena53/WebCreditos.git
 
 2. Abre el archivo index.html en tu navegador:
 Puedes abrirlo directamente desde tu explorador de archivos o usar una extensión como Live Server para ejecutarlo en un servidor local.
